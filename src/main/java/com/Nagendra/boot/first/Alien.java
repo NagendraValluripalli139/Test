@@ -13,7 +13,9 @@ public class Alien {
 	}
  
 	public void samle() {
-		System.out.println("Check Git revert");
+
+		System.out.println("");
+
 	}
 	
 	
