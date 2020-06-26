@@ -13,7 +13,7 @@ public class Alien {
 	}
  
 	public void samle() {
-		System.out.println("");
+		System.out.println("Check Git");
 	}
 	
 	
