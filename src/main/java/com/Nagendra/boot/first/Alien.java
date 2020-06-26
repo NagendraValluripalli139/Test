@@ -11,7 +11,10 @@ public class Alien {
 	public  void test() {
 		lap.compile();
 	}
-
+ 
+	public void samle() {
+		System.out.println("");
+	}
 	
 	
 
